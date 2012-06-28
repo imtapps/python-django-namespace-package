@@ -1,0 +1,2 @@
+This is an example of creating multiple django apps with the same namespace packages
+and having one app share a namespace with a dependency. (Notice the hack in settings.py)

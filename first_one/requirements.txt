@@ -1,0 +1,3 @@
+-i http://localhost:8888/simple/
+django
+sample.main.two==2.0.0
